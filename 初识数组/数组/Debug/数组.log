@@ -1,0 +1,4 @@
+﻿  源.c
+D:\VS 项目\数组\数组\源.c(9,8): warning C4101: “arr2”: 未引用的局部变量
+D:\VS 项目\数组\数组\源.c(8,7): warning C4101: “ch”: 未引用的局部变量
+  数组.vcxproj -> D:\VS 项目\数组\Debug\数组.exe
